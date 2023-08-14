@@ -1,7 +1,6 @@
-// Exercise #3: Celsius to Fahrenheit
-let celsius = 30;
+let celcius = 30;
 
+// Exercise #3: Celsius to Fahrenheit
 // Start coding here;
 
-let fahrenheit;
-let test
+let fahrenheit = celcius * 1.8 + 32;
