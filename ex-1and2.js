@@ -7,7 +7,7 @@ const restaurantName = "Chef's Table by Chef James";
 const totalPrice = "15000";
 const restaurantNumber = "1500";
 
-//Exercise #2: Variable Reassignment Start coding here
+//Exercise #2: Variable Reassignment Start coding her
 address = "(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641";
 totalPrice = 5000;
 restaurantNumber = 2500;
